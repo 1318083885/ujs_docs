@@ -41,17 +41,14 @@
 8.  [🛠 软件资源下载](https://dl.cra.moe/)
 9.  [🖥️服务状态监控](https://monitor.cra.moe)：校园网络，CRA服务监控。
 10. [✏️牛娃课程评价社区](https://nces.cra.moe/)：是南科大学生的课程评价社区，只有拥有南科大邮箱的同学或老师才可以注册账户。
+11. ~~🌊[牛娃广场（反馈社区）](https://c.cra.moe)：反馈与交流相关服务，现在已与牛娃小镇共同运营。可使用CAS登陆。~~
 12. DNS123服务：`10.20.110.123`，可通过此服务访问[Google Scholar](https://scholar.google.com.hk/)等学术服务。
 
 
 ### 牛娃小镇
 部分项目与计算机研究协会（CRA）合作部署。
 
-1. [✏️牛娃课程评价社区](https://nces.cra.moe/)：南科大学生的课程评价社区，因此，只有拥有南科大邮箱的同学或老师才可以注册账户。[中科大同款评教系统](https://icourse.club/)，赓续教改初心。
-
-### 信息群衍生
-
-1. SUSTown （微信/QQ小程序，在微信/QQ中搜索上述名称即可）
+1. [牛娃课程评价社区](https://nces.cra.moe/)：南科大学生的课程评价社区，因此，只有拥有南科大邮箱的同学或老师才可以注册账户。[中科大同款评教系统](https://icourse.club/)，赓续教改初心。
 
 ### 飞跃手册：申请与校招经验
 
@@ -92,10 +89,11 @@
 ## 🏥医疗服务/就诊
 
 ::: warning 默认转诊医院变更
-学校的社区健康服务中心门诊转诊定点医疗机构已在2021年7月改为**南方科技大学医院（西丽人民医院）**，你也可以在转诊时要求转去深圳市内的任何一家三甲医院。
+学校的社区健康服务中心门诊转诊定点医疗机构已在2021年7月改为**南方科技大学医院（西丽人民医院）**。本文中的部分内容可能已经过时。
 :::
 
 - [就医指南](./medical-treatment)
+- [我应该怎样优雅就诊 | 南科新知](./ssc)
 
 ## 软件授权
 
@@ -181,5 +179,3 @@
 - 南科大品牌文化服务网（标识，VI，信纸，ppt模版下载）[http://files.sustech.edu.cn/](http://files.sustech.edu.cn/)（需CAS认证）
 - [SUSTech LaTex 模板目录](https://github.com/SUSTC/latex-template)
 - [Typst 本科生毕业论文模版](https://github.com/dazhi0619/sustech-ug-thesis-typst) (非官方模版)
-
-<AdSenseDisplayAD/>

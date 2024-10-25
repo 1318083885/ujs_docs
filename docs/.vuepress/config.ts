@@ -9,12 +9,13 @@ import { defineUserConfig } from '@vuepress/cli'
 import { viteBundler } from '@vuepress/bundler-vite'
 
 const ogprefix = 'og: http://ogp.me/ns#'
-const title = '南科手册'
+const title = '江江手册'
 const description = 'Online manual for sustecher'
 const color = '#49BF7C'
 const author = 'sustech.online'
 
 export default defineUserConfig({
+    base: '/shouce/',  // 因为要放在二级目录，所以需要添加基础路径,2024年10月19日凌晨修改
     bundler: viteBundler({
         viteOptions: {
             ssr: {
@@ -202,14 +203,14 @@ export default defineUserConfig({
     theme: defaultTheme({
         navbar: [
             { text: '主页', link: '/' },
-            { text: '快讯网', link: 'https://daily.sustech.online/' },
-            { text: '小程序', link: '/miniapp/' },
+            // { text: '快讯网', link: 'https://daily.sustech.online/' },
+            // { text: '小程序', link: '/miniapp/' },
             { text: '关于', link: '/about/' },
-            { text: '站点帮助', link: '/site-help/' },
+            // { text: '站点帮助', link: '/site-help/' },// 帮助说明，晚点处理
         ],
-        repo: 'sustech-cra/sustech-online-ng',
-        repoLabel: '在Github上查看',
-        docsRepo: 'sustech-cra/sustech-online-ng',
+        // repo: 'sustech-cra/sustech-online-ng',
+        // repoLabel: '在Github上查看',
+        // docsRepo: 'sustech-cra/sustech-online-ng',
         docsDir: 'docs',
         editLinkText: '一起完善这本手册！',
         lastUpdatedText: '上次更新',
@@ -236,43 +237,43 @@ export default defineUserConfig({
         sidebarDepth: 2,
         sidebar: [
             '/',
-            '/facility/',
-            '/contact/',
-            '/calendar/',
-            '/service/',
-            '/life/',
-            '/study/',
-            '/canteen/',
-            '/organizations/',
-            '/media/',
-            {
-                text: '🚄交通',
-                link: '/transport/',
-                children: [
-                    // SidebarItem
-                    {
-                        text: '🚌新版巴士时刻表',
-                        link: '/transport/bustimer.md',
-                        children: [],
-                    },
-                    {
-                        text: '🚌校园巴士-工作日',
-                        link: '/transport/workday.md',
-                        children: [],
-                    },
-                    {
-                        text: '🚌校园巴士-节假日',
-                        link: '/transport/holiday.md',
-                        children: [],
-                    },
-                    {
-                        text: '周围交通',
-                        link: '/transport/',
-                        children: [],
-                    },
-                ],
-            },
-            '/surroundings/'
+            // '/facility/', // 建筑与设施
+            // '/contact/', // 黄页
+            '/calendar/', // 校历
+            '/service/', // 服务与技巧
+            // '/life/', // 生活
+            // '/study/', // 学习
+            // '/canteen/', // 食堂
+            // '/organizations/', // 社团与活动
+            '/media/',  // 媒体与网站
+            // {
+            //     text: '🚄交通',
+            //     link: '/transport/',
+            //     children: [
+            //         // SidebarItem
+            //         {
+            //             text: '🚌新版巴士时刻表',
+            //             link: '/transport/bustimer.md',
+            //             children: [],
+            //         },
+            //         {
+            //             text: '🚌校园巴士-工作日',
+            //             link: '/transport/workday.md',
+            //             children: [],
+            //         },
+            //         {
+            //             text: '🚌校园巴士-节假日',
+            //             link: '/transport/holiday.md',
+            //             children: [],
+            //         },
+            //         {
+            //             text: '周围交通',
+            //             link: '/transport/',
+            //             children: [],
+            //         },
+            //     ],
+            // },
+            // '/surroundings/'  //周边
         ]
     }),
 })

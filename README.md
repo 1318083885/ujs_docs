@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 南科手册
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/SUSTech-CRA/sustech-online-ng)
@@ -32,18 +33,11 @@ Online manual for SUSTecher.
 
 * nodejs版本：18
 * 推荐包管理器：pnpm
-  * 安装依赖：pnpm install
-  * 升级依赖：pnpm up
-  * 快速构建：pnpm run docs:fastbuild
-  * 构建：pnpm run docs:build
-  * 预览：pnpm run docs:dev
-  * 清理：pnpm run docs:clean
 
 ### 版本说明
 * 正式线上版本（master 分支构建）：https://sustech.online/
-* 预发测试版本：
-  * netlify
-  * Cloudflare Pages
+* 预发测试版本：使用 netlify 的 PR preview 功能
+
 ## LICENSE
 
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
@@ -56,3 +50,8 @@ International License][cc-by-sa].
 [cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
 [cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
 [cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
+=======
+# 说明
+
+初始化仓库，git提交代码！
+>>>>>>> 54c2b293318cf11bc2760f620d476acc9a7447c0

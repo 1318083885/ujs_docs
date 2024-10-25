@@ -1,7 +1,5 @@
 # 🏫建筑与设施
 
-![校园全景（从宝能城拍摄）](https://mirrors.sustech.edu.cn/site/sustech-online/img/facility/buildings/campus_202209.jpg)
-
 ## 校园街景<Badge text="2022年4月更新" type="tip"/>
 
 ::: tip
@@ -86,11 +84,7 @@
 
 #### 第三教学楼
 
-![第三教学楼与商学院，前景是大草坪](https://mirrors.sustech.edu.cn/site/sustech-online/img/facility/buildings/teach_building_3_and_school_of_business.jpeg)
-
 第三教学楼位于南科大中心与理学院和琳恩图书馆遥遥相望，毗邻商学院大楼。为5层建筑，其中一楼、二楼为阶梯教室以及混合教学教室，三楼为授课型教室，四楼为研讨型教室，五楼为教学机房，共56间教室，教室使用总面积为5800平。
-
-- [教工部提供的教室全景](https://guide-cr.tao.sustech.edu.cn/)
 
 >实测学校对第三教学楼设备不限速（Fair Use@Up to 1000Mbps）不同于其他建筑对科研教学网段限速50Mbps。
 
@@ -160,12 +154,6 @@
 
 #### 湖畔宿舍群
 
-::: tip 宿舍房型图
-
-宿舍房型图可至[此页面](/life/dormitory/dorm-floor-plan.html)查看。
-
-:::
-
 [![进入街景](./streetview.svg)](https://mirrors.sustech.edu.cn/site/sustech-pano/202204/#node568,190,20,110,0)
 
 
@@ -190,8 +178,8 @@
 |  2   |     致仁     |
 |  3   |     致诚     |
 |  4   |    研究生    |
-|  5   |     研究生     |
-|  6   |      研究生     |
+|  5   |     研究生、树德     |
+|  6   |      研究生、树德     |
 
 
 
@@ -221,12 +209,6 @@
 
 ### 二期宿舍
 
-::: tip 宿舍房型图
-
-宿舍房型图可至[此页面](/life/dormitory/dorm-floor-plan.html)查看。
-
-:::
-
 [![进入街景](./streetview.svg)](https://mirrors.sustech.edu.cn/site/sustech-pano/202204/#node1000,250,5,130,0)
 
 ![二期宿舍10栋与餐厅](https://mirrors.sustech.edu.cn/site/sustech-online/img/facility/buildings/p2-dormitory.jpg)
@@ -239,17 +221,17 @@
 
 | 楼栋 |    入住学生归属    |
 | :--: | :----------------: |
-|  7   |          硕士/博士生          |
-|  8   |        硕士/博士生      |
-|  9   |       硕士/博士生       |
-|  10  |       硕士/博士生       |
-|  11  | 本科生 |
-|  12  |       硕士/博士生       |
+|  7   |          博士生          |
+|  8   |        博士生         |
+|  9   |       博士生       |
+|  10  |       博士生       |
+|  11  | 新生楼（大一学生） |
+|  12  |       研究生       |
 |  13  |        树德        |
 |  14  |        致新        |
 |  15  |        树仁        |
 |  16  |        树礼        |
-|  17  |       硕士/博士生        |
+|  17  |         研究生           |
 
 ### 工学院
 
@@ -257,7 +239,7 @@
 
 ![建设中的工学院](https://mirrors.sustech.edu.cn/site/sustech-online/img/facility/buildings/Engineering_College_Building_of_Southern_University_of_Science_and_Technology_Under_Construction.jpg)
 
-工学院已于2022年开始使用，上图是正在建设中的工学院。
+上图是正在建设中的工学院。
 
 工学院分为南座和北座。
 
@@ -406,7 +388,6 @@
   - [书院活动室上方的阳台](https://mirrors.sustech.edu.cn/site/sustech-online/img/facility/buildings/湖畔阳台.jpg)/sparktour
   - [风雨操场](https://mirrors.sustech.edu.cn/site/sustech-online/img/facility/buildings/sports-center.jpg)/sparktour
   - [建设中的工学院](https://mirrors.sustech.edu.cn/site/sustech-online/img/facility/buildings/Engineering_College_Building_of_Southern_University_of_Science_and_Technology_Under_Construction.jpg)/sparktour
-  - [校园全景（从宝能城拍摄）](https://commons.wikimedia.org/wiki/File:Shenzhen_Southern_University_of_Science_and_Technology_Campus_(3).jpg)/[Dinkun Chen](https://commons.wikimedia.org/wiki/User:Dinkun_Chen)
 - 权利归作者所有
   - [一期校园](https://mirrors.sustech.edu.cn/site/sustech-online/img/facility/buildings/underhill.jpg)/sparktour
   - [第一教学楼](https://mirrors.sustech.edu.cn/site/sustech-online/img/facility/buildings/第一教学楼.jpg)/南方科技大学
