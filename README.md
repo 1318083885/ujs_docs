@@ -1,4 +1,7 @@
+# 20241025
+
 <<<<<<< HEAD
+
 # 南科手册
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/SUSTech-CRA/sustech-online-ng)
